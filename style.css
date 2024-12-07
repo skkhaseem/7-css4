@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    scroll-behavior: smooth;
+}
+header{
+    background-color:black;
+    padding: 12px;
+    position: sticky;
+    top: 0px;
+
+}
+nav{
+
+    display: inline-block;
+    color:black;
+    font-size: 24px;
+    vertical-align: middle;
+    margin-left: 200px;
+}
+img{
+    width: 100px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+p{
+    padding: 10px;
+    text-align: justify;
+    color: blueviolet;
+}
+span{
+    display: block;
+}
+h1{
+border: 2px solid burlywood; width: 100px;
+    vertical-align: center;
+    margin-left: 200px;
+    position: sticky;
+    top: 0%;
+    background-color: aqua;
+}
+.icons {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+   z-index:100;
+   color: brown;
+
+
+   }
